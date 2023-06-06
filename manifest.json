@@ -1,0 +1,11 @@
+{
+  "id": "bear-md-export",
+  "name": "Bear markdown export",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "The plugin helps you to export your markdown notes from Bear to Obsidian",
+  "author": "Konstantin Epishev",
+  "authorUrl": "https://epishev.me",
+  "fundingUrl": "https://obsidian.md/pricing",
+  "isDesktopOnly": true
+}
