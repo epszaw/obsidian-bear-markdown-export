@@ -6,6 +6,5 @@
   "description": "The plugin helps you to export your markdown notes from Bear to Obsidian",
   "author": "Konstantin Epishev",
   "authorUrl": "https://epishev.me",
-  "fundingUrl": "https://obsidian.md/pricing",
   "isDesktopOnly": true
 }
